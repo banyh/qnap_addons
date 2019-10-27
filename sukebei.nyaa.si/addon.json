@@ -1,0 +1,22 @@
+{
+    "author": "banyh",
+    "website": "",
+    "name": "sukebei",
+    "addon": "sukebei.php",
+    "class": "sukebei",
+    "hosts": [
+        "sukebei.nyaa.si"
+    ],
+    "domain": "sukebei.nyaa.si",
+    "version": 100,
+    "interface": [
+        "ISearch"
+    ],
+    "qpkg_dependencies": {
+        "DownloadStation": "5.0.0"
+    },
+    "description": {
+        "ENG": "sukebei torrent search provider.",
+        "TCH": "sukebei 種子搜尋器"
+    }
+}
